@@ -1,13 +1,13 @@
 from webserver import keep_alive
 import requests
 
-channelID = PUT THE CHANNEL ID
+channelID = 756173881697370233
 headers = {
     "authorization":
-    "YOUR TOKEN HERE"
+    "MTAzNDg4NTExODQwNzQ5NTcwMA.GVtIZK.xp9xXawsumFU-x7gzLPYxWopmC7PLQvg3Ch0SQ"
 }
 keep_alive()
-file = open("text.txt", "r")
+file = open("GodXiii", "r")
 lines = file.readlines()
 
 while True:
